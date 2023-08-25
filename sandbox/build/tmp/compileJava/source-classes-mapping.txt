@@ -1,8 +1,8 @@
-MyFirstProgram.java
- MyFirstProgram
+ru/stqa/ptf/sandbox/Rectangle.java
+ ru.stqa.ptf.sandbox.Rectangle
 ru/stqa/ptf/sandbox/Square.java
  ru.stqa.ptf.sandbox.Square
 ru/stqa/ptf/sandbox/firstjava.java
  ru.stqa.ptf.sandbox.firstjava
-ru/stqa/ptf/sandbox/Rectangle.java
- ru.stqa.ptf.sandbox.Rectangle
+MyFirstProgram.java
+ MyFirstProgram
